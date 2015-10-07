@@ -1,7 +1,18 @@
+h1 {
+  color: rgba(0,0,0,.5);
+}
+
+
+
 img{
- width: 50%;   
+  width: 50%;   
 }
 
 body{
- background: maroon
+  background: url(../img/swirl.png);
+  
 }
+
+
+
+
