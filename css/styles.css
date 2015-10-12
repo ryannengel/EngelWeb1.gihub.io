@@ -12,11 +12,18 @@ body{
 /*NAVIGATION*/
 
 nav a{
-  color: black;
+  color: white;
+  text-decoration: none;
+  width: 100px;
+  padding: 5px;
+  display: block;
 }
 
 ul {
   list-style: none;
+  background: grey;
+  width: auto;
+  padding: 20px;
 }
 
 
@@ -26,8 +33,10 @@ ul {
 /*TYPOGRAPHY*/
 
 h1 {
-  color: rgba(0,0,0,.5);
+  color: darkblue;
   text-align: center;
+  font-size: 50px;
+  margin-bottom: -10px;
 }
 
 
