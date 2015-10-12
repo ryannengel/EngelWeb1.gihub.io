@@ -1,9 +1,4 @@
-h1 {
-  color: rgba(0,0,0,.5);
-  text-align: center;
-}
-
-
+/*GLOBAL*/
 
 img{
   width: 50%;  
@@ -12,15 +7,31 @@ img{
 
 body{
   background: url(../img/swirl.png);
-  
+}
+
+/*NAVIGATION*/
+
+nav a{
+  color: black;
 }
 
 ul {
   list-style: none;
 }
 
-a{
-  color: black;
+
+/*LAYOUT*/
+
+
+/*TYPOGRAPHY*/
+
+h1 {
+  color: rgba(0,0,0,.5);
+  text-align: center;
 }
+
+
+
+
 
 
