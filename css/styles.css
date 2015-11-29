@@ -1,8 +1,7 @@
 /*GLOBAL*/
 
 img{
-  width: 50%;  
-  float: right;
+  width: 100%;
 }
 
 body{
@@ -10,22 +9,6 @@ body{
 }
 
 /*NAVIGATION*/
-
-nav a{
-  color: white;
-  text-decoration: none;
-  width: 100px;
-  padding: 5px;
-  display: inline-block;
-}
-
-ul {
-  list-style: none;
-  background: grey;
-  width: auto;
-  padding: 20px;
-}
-
 
 /*LAYOUT*/
 
