@@ -4,11 +4,27 @@ img{
   width: 100%;
 }
 
-body{
-  background: url(../img/swirl.png);
-}
 
 /*NAVIGATION*/
+
+ul{
+  text-decoration: none;
+  list-style: none;
+  display: inline-block;
+  float: right;
+  color: white;
+  
+}
+
+ul li{
+  text-decoration: none;
+  color: white;
+  display: inline-block;
+  padding: 10px;
+  margin: 5px;
+}
+
+
 
 /*LAYOUT*/
 
