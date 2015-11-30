@@ -35,8 +35,27 @@ nav a{
 
 font-family: 'Oswald', sans-serif;
 font-family: 'Raleway', sans-serif;
-font-family: 'Grand Hotel', cursive;
 font-family: 'Sofia', cursive;
 
 */
+
+.name{
+  margin-top: -340px;
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  font-size: 700%;
+  text-align: center;
+}
+
+.designer {
+  font-family: 'Sofia', cursive;
+  color: white;
+  text-align: center;
+  font-size: 300%;
+  margin-top: -110px;
+  margin-bottom: 200px;
+}
+
+
+
 
