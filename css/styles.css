@@ -1,6 +1,10 @@
-/*GLOBAL*/
+GLOBAL*/
 
 .cover{
+  width: 100%;
+}
+
+.rec{
   width: 100%;
 }
 
@@ -32,16 +36,4 @@ nav a{
 
 
 /*TYPOGRAPHY*/
-
-h1 {
-  color: darkblue;
-  text-align: center;
-  font-size: 50px;
-  margin-bottom: -10px;
-}
-
-
-
-
-
 
