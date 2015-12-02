@@ -1,11 +1,11 @@
 /*GLOBAL*/
 
-.cover{
-  width: 100%;
-}
-
 body{
   background: #9d6534;
+}
+
+.header {
+  background-image: url(../img/cover2.png)
 }
 
 /*NAVIGATION*/
@@ -43,8 +43,6 @@ font-family: 'Sofia', cursive;
   font-family: 'Oswald', sans-serif;
   color: white;
   text-align: center;
-  font-size: 10em;
-  transform: translateY(-325%);
   
 }
 
@@ -52,12 +50,11 @@ font-family: 'Sofia', cursive;
   font-family: 'Sofia', cursive;
   color: white;
   text-align: center;
-  font-size: 5em;
-  transform: translateY(-740%)
 }
 
-.bio{
-  color:
+.bio,
+h2{
+  color: white;
 }
 
 
