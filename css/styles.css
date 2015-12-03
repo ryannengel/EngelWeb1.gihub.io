@@ -55,7 +55,7 @@ nav ul li:hover{
 /*LAYOUT*/
 
 .arrow{
-
+  margin: auto;
 }
 
 
@@ -95,9 +95,16 @@ font-family: 'Sofia', cursive;
 
 /*IMAGES*/
 
+.about{
+  width: 70%;
+  margin: auto;
+
+}
+
 .profile {
-  width: 20%;
-  padding: 50px;  
+  width: 30%;
+  padding: 50px;
+  margin-top: 70px;
 }
 
 
