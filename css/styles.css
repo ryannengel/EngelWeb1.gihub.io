@@ -10,7 +10,7 @@ Tan: #e2bc9f
 /*GLOBAL*/
 
 body{
-  background: #9d6534;
+  background: #3b837e;
   width: 100%;
 }
 
@@ -55,7 +55,6 @@ nav ul li:hover{
 /*LAYOUT*/
 
 .arrow{
-  
 
 }
 
@@ -94,6 +93,12 @@ font-family: 'Sofia', cursive;
 }
 
 
+/*IMAGES*/
+
+.profile {
+  width: 20%;
+  padding: 50px;  
+}
 
 
 
