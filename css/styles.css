@@ -11,6 +11,7 @@ Tan: #e2bc9f
 
 body{
   background: #9d6534;
+  width: 100%;
 }
 
 header {
@@ -52,6 +53,12 @@ nav ul li:hover{
 }
 
 /*LAYOUT*/
+
+.arrow{
+  align: center;
+  
+
+}
 
 
 /*TYPOGRAPHY
