@@ -1,11 +1,23 @@
+/************
+COLORS
+Bronze: #9d6534
+Blue: #013950
+Teal: #3b827e
+Tan: #e2bc9f
+
+************/
+
 /*GLOBAL*/
 
 body{
   background: #9d6534;
 }
 
-.header {
-  background-image: url(../img/cover2.png)
+header {
+  background-image: url(../img/cover2.png);
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
 }
 
 /*NAVIGATION*/
@@ -25,6 +37,8 @@ ul li{
 nav a{
   color: white;
   text-decoration: none;
+  display: inline-block;
+  
 }
 
 
@@ -52,10 +66,19 @@ font-family: 'Sofia', cursive;
   text-align: center;
 }
 
-.bio,
-h2{
+.bio{
+  color: white;
+  font-family: 'Raleway', sans-serif;
+}
+
+.hello {
+  font-family: 'Oswald', sans-serif;
   color: white;
 }
+
+
+
+
 
 
 
