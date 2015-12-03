@@ -26,8 +26,7 @@ header {
 ul{
   list-style: none;
   display: inline-block;
-  float: right;
-  
+  float: right;  
 }
 
 ul li{
@@ -35,17 +34,22 @@ ul li{
   padding: 10px;
   margin-top: -15px;
 }
+
 nav a{
   color: white;
   text-decoration: none;
-  display: inline-block;
-  
+  display: inline-block;  
 }
+
 .nav{
   background: rgba(157, 101, 52, .4);
   height: 40px;
 }
 
+nav ul li:hover{
+  background: rgba(0, 57, 80, .8);
+  border-radius: 50%;
+}
 
 /*LAYOUT*/
 
