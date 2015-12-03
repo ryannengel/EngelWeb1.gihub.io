@@ -98,12 +98,12 @@ font-family: 'Sofia', cursive;
 .about{
   width: 70%;
   margin: auto;
-
 }
 
 .profile {
   width: 40%;
   margin-top: 70px;
+  display: inline;
 }
 
 
