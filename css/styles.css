@@ -106,16 +106,38 @@ font-family: 'Sofia', cursive;
 }
 
 footer{
-  width: 70%;
+  width: 65%;
   margin: auto;
+  margin-top: -50px;
+  padding-bottom: 80px;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-size: 120%;
+  text-align: center;
 }
 
-.flower{
-  width: 85%;
-  margin-right: -300px;
-  float: right;
 
+.phone,
+.number,
+.email,
+.env{
+  display: inline;
 }
+
+.contact{
+  font-family: 'Sofia', cursive;
+  font-size: 300%;
+}
+
+
+.phone,
+.env{
+  width: 7%;
+  margin-left: 40px;
+  padding-right: 20px;
+}
+
+
 
 /*******RESUME********/
 /************
@@ -145,7 +167,12 @@ font-family: 'Sofia', cursive;
   font-family: 'Raleway', sans-serif;
 }
 
+.flower{
+  width: 85%;
+  margin-right: -300px;
+  float: right;
 
+}
 /*TYPOGRAPHY*/
 
 .resume_name{
