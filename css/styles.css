@@ -166,21 +166,30 @@ font-family: 'Sofia', cursive;
  padding-left: 40px;
 }
 
+
+/*SKILLS*/
+
 .skill_set{
   width: 65%;
-  padding: 30px;
   margin: auto;
   color: white;
+  font-family: 'Raleway', sans-serif;
+  font-size: 130%;
 }
 
 .skills{
   font-family: 'Oswald', sans-serif;
-  font-size: 200%
+  font-size: 200%;
 }
 
-.tools{
-  text-align: center;
+ul{
+  margin: auto;
 }
+
+
+
+
+
 
 
 
@@ -198,36 +207,7 @@ font-family: 'Sofia', cursive;
   border-radius: 50%;
 }
 
-/*CODE MODIFIED FROM CSS-TRICKS.COM*/
 
-#hexagon {
-	width: 100px;
-	height: 55px;
-	background: #013950;
-	position: relative;
-}
-#hexagon:before {
-	content: "";
-	position: absolute;
-	top: -25px;
-	left: 0;
-	width: 0;
-	height: 0;
-	border-left: 60px solid transparent;
-	border-right: 60px solid transparent;
-	border-bottom: 25px solid #013950;
-}
-#hexagon:after {
-	content: "";
-	position: absolute;
-	bottom: -25px;
-	left: 0;
-	width: 0;
-	height: 0;
-	border-left: 60px solid transparent;
-	border-right: 60px solid transparent;
-	border-top: 25px solid #013950;
-}
 
 
 
