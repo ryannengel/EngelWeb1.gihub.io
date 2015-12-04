@@ -14,7 +14,7 @@ body{
   width: 100%;
 }
 
-header {
+.home_header {
   background:#013950;
   background-repeat: no-repeat;
   height: 790px;
@@ -85,11 +85,22 @@ font-family: 'Sofia', cursive;
 .bio{
   color: white;
   font-family: 'Raleway', sans-serif;
+  float: right;
+  width: 50%;
+  border: #3b827e solid;
+  margin-top: -20px;
+  font-size: 120%;
+  line-height: 1.5em;
 }
 
 .hello {
   font-family: 'Oswald', sans-serif;
   color: white;
+  font-size: 400%;
+  float: right;
+  width: 50%;
+  border-bottom: white solid;
+  margin-top: 100px;
 }
 
 
@@ -103,8 +114,10 @@ font-family: 'Sofia', cursive;
 .profile {
   width: 40%;
   margin-top: 70px;
-  display: inline;
+  margin-bottom: 70px;
+  display: inline-block;
 }
+
 
 
 
