@@ -116,7 +116,10 @@ footer{
   text-align: center;
 }
 
-
+.contact{
+  width: 65%;
+  margin: auto;
+}
 .phone,
 .number,
 .email,
@@ -159,7 +162,7 @@ font-family: 'Sofia', cursive;
 }
 
 .main_content{
-  width: 65%;
+  width: 70%;
   padding: 30px;
   margin: auto;
   color: white;
@@ -168,7 +171,7 @@ font-family: 'Sofia', cursive;
 }
 
 .flower{
-  width: 85%;
+  width: 80%;
   margin-right: -300px;
   float: right;
 
@@ -207,8 +210,7 @@ font-family: 'Sofia', cursive;
 /*SKILLS/CONTACT*/
 
 .skill_set{
-  width: 65%;
-  padding: 30px;
+  width: 70%;
   margin: auto;
   color: white;
   font-size: 130%;
@@ -218,12 +220,15 @@ font-family: 'Sofia', cursive;
 .skills{
   font-family: 'Oswald', sans-serif;
   font-size: 200%;
+  border-bottom: white double 5px;
+  width: 50%;
+  margin-bottom: -3px;
 }
 
-
-.contact{
-  width: 65%;
-  margin: auto;
+.skills_list li{
+  width: 50%;
+  display: inline-block;
+  margin-top: -50px;
 }
 
 
