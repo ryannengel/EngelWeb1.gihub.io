@@ -7,6 +7,8 @@ Tan: #e2bc9f
 
 ************/
 
+/*******HOME PAGE********/
+
 /*GLOBAL*/
 
 body{
@@ -120,6 +122,32 @@ font-family: 'Sofia', cursive;
 
 
 
+/*******RESUME********/
+/************
+COLORS
+Bronze: #9d6534
+Blue: #013950
+Teal: #3b827e
+Tan: #e2bc9f
+
+************/
+
+/*GLOBAL*/
+
+.resume_body{
+  background: #9d6534;
+  background-image: url(../img/tile.png);
+  background-repeat: repeat;
+  background-size: 40%;
+}
+
+.main_content{
+  width: 70%;
+  padding: 30px;
+  margin: auto;
+  background: #3b827e;
+  color: white
+}
 
 
 
