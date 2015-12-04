@@ -249,11 +249,31 @@ font-family: 'Sofia', cursive;
 }
 
 
+/*******PORTFOLIO********/
+/************
+COLORS
+Bronze: #9d6534
+Blue: #013950
+Teal: #3b827e
+Tan: #e2bc9f
 
+font-family: 'Oswald', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Sofia', cursive;
+************/
 
+/*NAV*/
 
+.portfolio_nav{
+  background: rgba(0, 57, 80, .7);
+  height: 40px;
+}
 
-
+.portfolio_nav ul li:hover{
+  background: rgba(0, 57, 80, .8);
+  background: rgba(157, 101, 52, .8);
+  border-radius: 50%;
+}
 
 
 
