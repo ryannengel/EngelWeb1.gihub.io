@@ -105,7 +105,17 @@ font-family: 'Sofia', cursive;
   display: inline-block;
 }
 
+footer{
+  width: 70%;
+  margin: auto;
+}
 
+.flower{
+  width: 85%;
+  margin-right: -300px;
+  float: right;
+
+}
 
 /*******RESUME********/
 /************
@@ -167,7 +177,7 @@ font-family: 'Sofia', cursive;
 }
 
 
-/*SKILLS*/
+/*SKILLS/CONTACT*/
 
 .skill_set{
   width: 65%;
@@ -184,7 +194,10 @@ font-family: 'Sofia', cursive;
 }
 
 
-
+.contact{
+  width: 65%;
+  margin: auto;
+}
 
 
 
