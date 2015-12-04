@@ -171,21 +171,17 @@ font-family: 'Sofia', cursive;
 
 .skill_set{
   width: 65%;
+  padding: 30px;
   margin: auto;
   color: white;
-  font-family: 'Raleway', sans-serif;
   font-size: 130%;
+  font-family: 'Raleway', sans-serif;
 }
 
 .skills{
   font-family: 'Oswald', sans-serif;
   font-size: 200%;
 }
-
-ul{
-  margin: auto;
-}
-
 
 
 
