@@ -388,10 +388,13 @@ a .port-link {
   border-radius: 50%;
 }
 
+
+
+
 .description img{
-  width: 70%;
+  width: 100%;
   margin: auto;
-  margin-top: 50px;
+  margin-top: 10px
 }
 
 .description{
@@ -401,27 +404,38 @@ a .port-link {
   margin: auto;
 }
 
-
-
-.piece-title{
-  font-family: 'Oswald', sans-serif;
-  font-size: 300%;
-  padding-bottom: 10px;
-  border-bottom: 5px double white;
-  width: 70%;
-  text-align: center;
-}
- 
 .about-art{
   width:70%;
-  font-size: 125%
+  font-size: 125%;
+  margin: auto;
+  padding-top: 10px;
 }
 
-.completion {
-  
+#bug-body {
+  background-color: #9d6534;
+  width: 100%;
+  background: url(../img/flower_portfolio.png) center;
+  background-size: 155%;
+  background-repeat: no-repeat;
 }
 
+.description {
+	background: rgba(0, 57, 80, .9);
+	color: white;
+	margin: 50px auto;
+	padding: 50px;
+	position: relative;
+	width: 60%;
+}
 
-
+.piece-title {
+	border-bottom: 5px double white;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+    font-size: 300%;
+	margin: 0 0 10px;
+	padding: 0 0 5px;
+	text-align: center;
+}
 
 
