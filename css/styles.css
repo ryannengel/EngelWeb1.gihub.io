@@ -727,7 +727,43 @@ footer{
     font-size: 400%;
   }
   
+  .resume_name{
+    font-size: 300%;
+    width: 50%
+  }
+  
+  .vcd{
+    font-size: 150%;
+    width: 65%;
+    padding-top: 10px;
+  }
+  
+  .flower{
+  width: 59%;
+  margin-right: -110px;
+  float: right;
+  }
+  
+
+  .title{
+    font-size: 180%;
+  }
+  
+  .school{
+  font-size: 115%
 }
+
+.degree{
+  font-size:90%;
+ padding-left: 40px;
+}
+
+  
+  
+  
+}
+
+
 
 
 
