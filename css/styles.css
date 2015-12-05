@@ -271,6 +271,7 @@ font-family: 'Sofia', cursive;
   background: url(../img/flower_portfolio.png) center;
   background-size: 155%;
   background-repeat: no-repeat;
+
 }
 
 .portfolio_nav{
@@ -563,15 +564,23 @@ a .port-link {
 
 
 
+/***********************************************
+***********************************************
+MEDIA QUERIES
+***********************************************
+************************************************/
 
 
 
-
-
-
-
-
-
+@media screen and (max-width: 1415px){
+  #port-body{
+    background-color: #9d6534;
+    width: 100%;
+    background: url(../img/flower_portfolio.png) center;
+    background-size: 155%;
+    background-repeat: repeat;
+  }
+}
 
 
 
