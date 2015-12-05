@@ -771,6 +771,21 @@ footer{
 }
 
 
+@media screen and (max-width: 839px){
+   .nav{
+    background: none;
+  }
+  
+  
+  .nav ul{
+   background: rgba(157, 101, 52, .4);
+   margin-top: 0px;
+  }
+
+}
+
+
+
 
 @media screen and (max-width: 640px){
 
@@ -782,22 +797,25 @@ footer{
     margin-top: -150px;
   }
   
-  .nav{
-    background: none;
-  }
-  
-  
-  .nav ul{
-   background: rgba(157, 101, 52, .4);
-   margin-top: 0px;
-  }
+}
 
+
+
+@media screen and (max-width: 560px){
+  .about{
+    margin-top: -220px;
+  }
 
 }
 
 
 
+@media screen and (max-width: 400px){
+  .about{
+    margin-top: -360px;
+  }
 
+}
 
 
 
