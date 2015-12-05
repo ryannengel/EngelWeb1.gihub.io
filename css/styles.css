@@ -591,7 +591,12 @@ MEDIA QUERIES
   
 }
 
+@media screen and (max-width: 1300px){
+  .about{
+  margin-top: -120px;
+  }
 
+}
 
 @media screen and (max-width: 960px){
   
@@ -607,7 +612,54 @@ MEDIA QUERIES
     font-size: 150%;
   }
   
+  .arrow{
+    display: none;
+  }
+  
+  .about{
+  margin-top: -300px;
+  }
+
+  .bio{
+  margin-top: -20px;
+  font-size: 100%;
 }
+
+.hello {
+  font-size: 300%;
+  margin-top: 60px;
+}
+
+.profile{
+  width: 45%
+}
+
+
+footer{
+  margin-top: -30px;
+  padding-bottom: 80px;
+  font-size: 100%;
+}
+
+.contact{
+  padding-bottom: 10px;
+}
+  
+.number,
+.email{
+  font-size: 130%;
+}
+
+
+.phone,
+.env{
+  width: 10%;
+  padding-right: 10px;
+}
+  
+}
+
+
 
 
 
