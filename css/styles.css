@@ -753,16 +753,22 @@ footer{
   font-size: 115%
 }
 
-.degree{
+  .degree{
   font-size:90%;
  padding-left: 40px;
+  }
+
+  .skills{
+  font-size: 180%;
+  }
+  
+.skills_list li{
+  width: 100%;
+  text-align: left;
 }
 
   
-  
-  
 }
-
 
 
 
