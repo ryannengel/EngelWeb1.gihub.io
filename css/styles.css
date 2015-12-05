@@ -766,13 +766,21 @@ footer{
   width: 100%;
   text-align: left;
 }
-
   
 }
 
 
 
+@media screen and (max-width: 640px){
 
+  .home_header {
+  background-image: url("../img/cover-extended.png");
+}
+
+
+
+
+}
 
 
 
