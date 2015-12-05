@@ -17,6 +17,7 @@ body{
 }
 
 .home_header {
+  width: 100%;
   background:#3b827e;
   background-repeat: no-repeat;
   height: 790px;
@@ -643,6 +644,12 @@ MEDIA QUERIES
     height: 60px;
     font-size: 150%;
   }
+  
+  ul{
+    width: 100%;
+    text-align: center;
+  }
+  
   
   .arrow{
     display: none;
