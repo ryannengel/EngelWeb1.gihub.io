@@ -17,7 +17,7 @@ body{
 }
 
 .home_header {
-  background:#013950;
+  background:#3b827e;
   background-repeat: no-repeat;
   height: 790px;
   background-image: url("../img/cover2.png");
@@ -582,7 +582,19 @@ MEDIA QUERIES
   }
 }
 
+
+@media screen and (max-width: 1540px){
+  
+  .home_header {
+  background-size: contain;
+  }
+  
+}
+
+
+
 @media screen and (max-width: 960px){
+  
   .hoverbox a:hover .preview {
 	display: none;
   }
@@ -593,9 +605,8 @@ MEDIA QUERIES
     height: 60px;
     font-size: 150%;
   }
-
+  
 }
-
 
 
 
