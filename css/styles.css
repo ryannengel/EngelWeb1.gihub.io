@@ -372,24 +372,54 @@ a .port-link {
 
 
 
+/************************************************PORTFOLIO LINKS*****/
 
 
 
+.bug_nav{
+  background: rgba(0, 57, 80, .9);
+  height: 40px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.bug_nav ul li:hover{
+  background: rgba(0, 57, 80, .8);
+  background: rgba(157, 101, 52, .8);
+  border-radius: 50%;
+}
+
+.description img{
+  width: 70%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.description{
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  width: 70%;
+  margin: auto;
+}
 
 
 
+.piece-title{
+  font-family: 'Oswald', sans-serif;
+  font-size: 300%;
+  padding-bottom: 10px;
+  border-bottom: 5px double white;
+  width: 70%;
+  text-align: center;
+}
+ 
+.about-art{
+  width:70%;
+  font-size: 125%
+}
 
-
-
-
-
-
-
-
-
-
-
-
+.completion {
+  
+}
 
 
 
