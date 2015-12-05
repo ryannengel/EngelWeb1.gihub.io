@@ -585,8 +585,14 @@ MEDIA QUERIES
 @media screen and (max-width: 960px){
   .hoverbox a:hover .preview {
 	display: none;
-}
+  }
 
+  .nav,
+  .resume_nav,
+  .portfolio_nav{
+    height: 60px;
+    font-size: 150%;
+  }
 
 }
 
