@@ -851,6 +851,20 @@ footer{
   .vcd{
     font-size: 120%
   }
+
+  .contact{
+    font-size: 300%;
+  }
+
+    .phone,
+  .env{
+    width:20%;
+    margin:auto;
+    padding: 10px;
+    display: block
+  }
+  
+  
 }
 
 
