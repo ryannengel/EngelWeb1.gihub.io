@@ -374,7 +374,7 @@ a .port-link {
 
 /************************************************PORTFOLIO LINKS*****/
 
-
+/*UNIVERSAL*/
 
 .bug_nav{
   background: rgba(0, 57, 80, .9);
@@ -383,25 +383,8 @@ a .port-link {
 }
 
 .bug_nav ul li:hover{
-  background: rgba(0, 57, 80, .8);
   background: rgba(157, 101, 52, .8);
   border-radius: 50%;
-}
-
-
-
-
-.description img{
-  width: 100%;
-  margin: auto;
-  margin-top: 10px
-}
-
-.description{
-  color: white;
-  font-family: 'Raleway', sans-serif;
-  width: 70%;
-  margin: auto;
 }
 
 .about-art{
@@ -424,8 +407,9 @@ a .port-link {
 	color: white;
 	margin: 50px auto;
 	padding: 50px;
-	position: relative;
-	width: 60%;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    width: 70%;
 }
 
 .piece-title {
@@ -437,5 +421,63 @@ a .port-link {
 	padding: 0 0 5px;
 	text-align: center;
 }
+
+#back a{
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  float: right;
+  text-decoration: none;
+  padding: 20px;
+  margin-top: -20px;
+}
+
+#back a:hover{
+  background: rgba(59, 131, 126, .8);
+  border-radius: 50%;
+}
+
+
+/*BUG*/
+
+.bug-img{
+  width: 100%;
+  margin: auto;
+  margin-top: 10px
+}
+
+
+/*SORRY*/
+
+.sorry-img {
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 10%;
+  margin-top: 10px;
+}
+
+.sorry-img-2 {
+  width: 40%;
+}
+
+/*SIGNAL*/
+
+.signal-png {
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
