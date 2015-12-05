@@ -404,7 +404,7 @@ a .port-link {
   width: 100%;
   background: url(../img/flower_portfolio.png) center;
   background-size: 155%;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
 }
 
 .description {
