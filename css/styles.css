@@ -772,16 +772,40 @@ footer{
 
 
 @media screen and (max-width: 839px){
-   .nav{
+   .nav,
+    .resume_nav,
+    .portfolio_nav,
+    .bug_nav{
     background: none;
   }
-  
   
   .nav ul{
    background: rgba(157, 101, 52, .4);
    margin-top: 0px;
   }
 
+  .resume_nav ul,
+  .portfolio_nav ul,
+  .bug_nav ul {
+    background: rgba(0, 57, 80, .9);
+    margin-top: 0px;
+  }
+  
+}
+
+
+
+@media screen and (max-width: 786px){
+  .flower{
+    display: none;
+  }
+
+    .resume_name,
+  .vcd{
+    width: 100%
+  }
+  
+  
 }
 
 
@@ -797,6 +821,8 @@ footer{
     margin-top: -150px;
   }
   
+
+  
 }
 
 
@@ -806,6 +832,13 @@ footer{
     margin-top: -220px;
   }
 
+}
+
+
+@media screen and (max-width: 486px){
+  .vcd{
+    font-size: 135%
+  }
 }
 
 
