@@ -47,7 +47,8 @@ nav a{
 
 .nav{
   background: rgba(157, 101, 52, .4);
-  height: 40px; font-family: 'Raleway', sans-serif;
+  height: 40px;
+  font-family: 'Raleway', sans-serif;
 }
 
 nav ul li:hover{
@@ -777,7 +778,19 @@ footer{
   background-image: url("../img/cover-extended.png");
 }
 
-
+  .about{
+    margin-top: -150px;
+  }
+  
+  .nav{
+    background: none;
+  }
+  
+  
+  .nav ul{
+   background: rgba(157, 101, 52, .4);
+   margin-top: 0px;
+  }
 
 
 }
