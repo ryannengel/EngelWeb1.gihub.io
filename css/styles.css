@@ -583,7 +583,7 @@ MEDIA QUERIES
 }
 
 @media screen and (max-width: 960px){
-  .hoverbox .preview {
+  .hoverbox a:hover .preview {
 	display: none;
 }
 
