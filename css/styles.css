@@ -264,6 +264,14 @@ font-family: 'Sofia', cursive;
 
 /*NAV*/
 
+#port-body {
+  background-color: #9d6534;
+  width: 100%;
+  background: url(../img/flower.png) center;
+  background-size: 140%;
+  background-repeat: no-repeat;
+}
+
 .portfolio_nav{
   background: rgba(0, 57, 80, .7);
   height: 40px;
@@ -282,7 +290,110 @@ http://sonspring.com/journal/hoverbox-image-gallery
 ***********************/
 
 
+a .port-link {
+	text-decoration: none;
+}
 
+.port-container {
+	background: rgba(0, 57, 80, .9);
+	color: white;
+	margin: 0 auto;
+	padding: 50px;
+	position: relative;
+	width: 70%;
+}
+
+.port-title {
+	background: inherit;
+	border-bottom: 1px dashed #ccc;
+	color: #933;
+	font: 17px Georgia, serif;
+	margin: 0 0 10px;
+	padding: 0 0 5px;
+	text-align: center;
+}
+
+#footer {
+	clear: both;
+	font: 10px Verdana, sans-serif;
+	padding: 10px 0;
+	text-align: center;
+}
+
+#footer a
+{
+	background: inherit;
+	color: #777;
+}
+
+#footer a:hover
+{
+	background: inherit;
+	color: #000;
+}
+
+/* =Hoverbox Code
+----------------------------------------------------------------------*/
+
+.hoverbox
+{
+	cursor: default;
+	list-style: none;
+}
+
+.hoverbox a
+{
+	cursor: default;
+}
+
+.hoverbox a .preview
+{
+	display: none;
+}
+
+.hoverbox a:hover .preview
+{
+	display: block;
+	position: absolute;
+	top: -33px;
+	left: -45px;
+	z-index: 1;
+    cursor: pointer;
+}
+
+.hoverbox img
+{
+	background: #fff;
+	border-color: #aaa #ccc #ddd #bbb;
+	border-style: solid;
+	border-width: 1px;
+	color: inherit;
+	padding: 2px;
+	vertical-align: top;
+	width: 200px;
+	height: 150px;
+}
+
+.hoverbox li
+{
+	background: #eee;
+	border-color: #ddd #bbb #aaa #ccc;
+	border-style: solid;
+	border-width: 1px;
+	color: inherit;
+	display: inline;
+	float: left;
+	margin: 3px;
+	padding: 5px;
+	position: relative;
+}
+
+.hoverbox .preview
+{
+	border-color: #000;
+	width: 400px;
+	height: 300px;
+}
 
 
 
