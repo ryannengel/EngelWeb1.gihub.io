@@ -21,6 +21,17 @@ body{
   background: black;
 }
 
+.original {
+  font-family: 'Raleway', sans-serif;
+  text-decoration: none;
+  color: yellow;
+}
+
+.footer{
+  font-family: 'Raleway', sans-serif;
+  color: white;
+}
+
 /*************** NAVIGATION ***************/
 nav ul{
   list-style: none;
